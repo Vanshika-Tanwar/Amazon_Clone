@@ -1,2 +1,1 @@
-# Amazon_Clone
-I've made this project while learning from YouTube@freecodecamp).
+Live Link=> https://uicloneamazon.netlify.app/
